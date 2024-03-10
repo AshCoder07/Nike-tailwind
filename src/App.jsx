@@ -28,6 +28,7 @@ const App=()=>(
     <section className="bg-black padding-x padding-t pg-8">
       <Footer />
     </section>
+    
   </main>
 )
 export default App;
